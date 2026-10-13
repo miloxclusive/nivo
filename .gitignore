@@ -1,0 +1,11 @@
+# Dépendances et builds
+node_modules/
+dist/
+
+# SECRETS : ne jamais partager ces fichiers
+secret.local.json
+lib/key.generated.js
+.env
+
+# Copié depuis node_modules par scripts/copy-vendor.js
+src/vendor/hls.min.js
