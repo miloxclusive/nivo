@@ -1,3 +1,4 @@
+src/vendor/platforms/
 # Dépendances et builds
 node_modules/
 dist/
